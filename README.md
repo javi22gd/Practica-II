@@ -1,4 +1,5 @@
 # Práctica II
 ## Visualización de Datos
 
-En este repositorio se encuentra el *dataset* utilizado para la elaboración de la práctica: ***ActivitiesClean.csv***
+### *Datos*
+En esta carpeta se encuentran los datos, en todas sus etapas de tratamiento, utilizados para realizar la práctica.
